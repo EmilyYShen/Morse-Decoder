@@ -1,4 +1,4 @@
-# lab2_morse_skeleton
+# Morse Decoder
 
 The link below is a demo video of the Morse code translations. The red LED blinking represents a dot and the green LED blinking represents a dash. 
 
